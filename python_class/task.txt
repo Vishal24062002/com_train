@@ -16,9 +16,7 @@ Then read and print the content of the file.
 Task:
 Open a file and count how many words it contains.
 
-3. Search for a Word in a File
-Task:
-Ask the user for a word, search for that word in the file, and print the line(s) where it's found.
+3.  
 
 4. Copy Content from One File to Another
 Task:
@@ -47,16 +45,16 @@ Read all numbers from the file you created above and print their sum.
 10. Line Numbering
 Task:
 Read a file and print each line preceded by its line number, like:
-1: Python is awesome
-2: File handling is powerful
+1: Python is awesome  
+2: File handling is powerful  
 
-11. Count the Occurrence of each words from a text file.
+11. Count the Occurrence of each words from a text file.   
 
-12. Write a file handling code with seek() and tell().
+12. Write a file handling code with seek() and tell().   
 
-
-
-
+ 
+  
+              
 Json file
 
 1. Write a Dictionary to a JSON File

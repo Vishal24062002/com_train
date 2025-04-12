@@ -1,9 +1,14 @@
-# fibonaci number
-def fib(n):
-    if n==1:
-        return 0
-    elif n==2:
-        return 1
-    return fib(n-1)+fib(n-2)
-print(fib(5))
+import csv
+li=[{'name':'vishal','age':'10','city': 'new york'},
+    {'name':'vishal','age':'10','city': 'new york'},
+    {'name':'vishal','age':'10','city': 'new york'},
+    {'name':'vishal','age':'10','city': 'new york'},
+    {'name':'vishal','age':'10','city': 'new york'},
+    {'name':'vishal','age':'10','city': 'new york'}
+    ]
+with open('people.csv','w',newline='')as w:
+    writer=csv.DictWriter(w,fieldnames=['name','age','city'])
+    writer.writeheader()
     
+    writer.writerows(li)
+

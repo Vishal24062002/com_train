@@ -1,0 +1,10 @@
+{
+    "name": "ram",
+    "age": 100,
+    "city": "ayodhya",
+    "skills": [
+        "py",
+        "ml",
+        "da"
+    ]
+}
