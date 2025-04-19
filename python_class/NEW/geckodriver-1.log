@@ -1,0 +1,20 @@
+1745052166803	geckodriver	INFO	Listening on 127.0.0.1:55187
+1745052169881	mozrunner::runner	INFO	Running command: "C:\\Users\\vishal.kumar33\\.cache\\selenium\\firefox\\win64\\137.0.2\\firefox.exe" "--marionette" "--remote ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VISHAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofileYGxJm4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1745052171035	Marionette	INFO	Marionette enabled
+1745052172276	Marionette	INFO	Listening on port 55244
+WebDriver BiDi listening on ws://127.0.0.1:55188
+Read port: 55244
+console.error: Policies: 
+  Download failed - ERROR_CORRUPT_FILE - file://C:\Program Files\Snow Software\Inventory\Agent\FFCloudmetering.xpi
+1745052172973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55188/devtools/browser/6df382e2-4a1d-4c93-b314-ccdc1c2ea256
+Exiting due to channel error.
+[GFX1-]: Com[[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+positorBridgeChild receives IPC close with reason=AbnormalShutdown
+GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

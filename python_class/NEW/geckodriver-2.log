@@ -1,0 +1,16 @@
+1745052187170	geckodriver	INFO	Listening on 127.0.0.1:55268
+1745052190283	mozrunner::runner	INFO	Running command: "C:\\Users\\vishal.kumar33\\.cache\\selenium\\firefox\\win64\\137.0.2\\firefox.exe" "--marionette" "--remote ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VISHAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofile8XQpjy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1745052190859	Marionette	INFO	Marionette enabled
+1745052192007	Marionette	INFO	Listening on port 55280
+Read port: 55280
+WebDriver BiDi listening on ws://127.0.0.1:55269
+1745052192396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies: 
+  Download failed - ERROR_CORRUPT_FILE - file://C:\Program Files\Snow Software\Inventory\Agent\FFCloudmetering.xpi
+DevTools listening on ws://127.0.0.1:55269/devtools/browser/c14de0e8-6616-4434-9bb2-9f7246f1032b
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 936))
+1745052197668	Marionette	INFO	Stopped listening on port 55280
+Dynamically enable window occlusion 1
