@@ -1,0 +1,15 @@
+{
+    "empl": {
+        "id": 108,
+        "name": "Ravi",
+        "depa": "Ravi",
+        "skills": [
+            "commu",
+            "rec"
+        ],
+        "add": {
+            "city": "delhi",
+            "zip": "144411"
+        }
+    }
+}
